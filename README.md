@@ -1,6 +1,7 @@
 <h1 align="center">Hi 🧑‍💻, I'm Md Fahim Shahoriar Titu</h1>
 <h3 align="center">Software engineer | Python developer | Data science and web development hobbyist | CSE alumni</h3>
-
+<img algin="right" alt="coding" width="400" src="![image](https://github.com/TituShahoriar/TituShahoriar/assets/105875599/af92d729-717f-4baf-a7bb-96b3902627f2)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titushahoriar&label=Profile%20views&color=0e75b6&style=flat" alt="titushahoriar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titushahoriar" alt="titushahoriar" /></a> </p>
