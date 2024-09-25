@@ -1,7 +1,5 @@
 # Hi there, I'm Md. Fahim Shahoriar Titu! 👋
 
-!Profile Banner
-
 ## 🚀 About Me
 I'm a passionate researcher and developer with a BSc in Computer Science and Engineering from North South University. My expertise lies in deep learning, machine learning, and computer vision, with a focus on environmental monitoring and public health. I love tackling real-world challenges and creating innovative solutions that make a tangible impact.
 
