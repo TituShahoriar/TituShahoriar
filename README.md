@@ -1,3 +1,6 @@
+# Welcome to My GitHub Profile
+
+!Profile Views
 # Hi there, I'm Md. Fahim Shahoriar Titu! 👋
 
 ## 🚀 About Me
@@ -9,6 +12,10 @@ I'm a passionate researcher and developer with a BSc in Computer Science and Eng
 - Conducting advanced research in deep learning and computer vision
 - Developing neural network models for visual pollution detection and robotic vision systems
 - Integrating AI models on drones for real-time fire detection
+## Projects
+- **Visual Pollution Detection**: Developed a system to detect visual pollution using computer vision techniques.
+- **Robotic Vision Systems**: Worked on enhancing robotic vision systems for better object detection and navigation.
+- **Cooperative Robots**: Researched and developed algorithms for cooperative robots to work efficiently in a shared environment.
 
 ## 🏆 Achievements
 - Published multiple research papers in high-impact journals
@@ -75,6 +82,27 @@ In the next five years, I aim to be at the forefront of AI and robotics research
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titushahoriar" alt="titushahoriar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/fahim_t2" target="blank"><img src="https://img.shields.io/twitter/follow/fahim_t2?logo=twitter&style=for-the-badge" alt="fahim_t2" /></a> </p>
+## GitHub Statistics
+!GitHub Stats
 
+## Repositories
+!Repositories
+
+## Programming Languages
+!Languages
+
+## Collaborators
+!Collaborators
+
+## Contact Me
+- **GitHub**: TituShahoriar
+- **LinkedIn**: Fahim Shahoriar Titu
+- **Email**: fahim@example.com
+
+## Acknowledgements
+Special thanks to all my collaborators and mentors who have supported me throughout my journey.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 *Let's collaborate and create something amazing together!*
 
