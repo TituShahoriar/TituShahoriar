@@ -91,8 +91,13 @@ In the next five years, I aim to be at the forefront of AI and robotics research
 ## Programming Languages
 !Languages
 
-## Collaborators
-!Collaborators
+# Contributors
+
+!Contributors
+
+## Top Contributors
+!GitHub Contributors Graph
+
 
 ## Contact Me
 - **GitHub**: TituShahoriar
